@@ -1,0 +1,4 @@
+names:
+  0: door_handle
+path: .
+train: train.txt
